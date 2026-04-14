@@ -3,7 +3,7 @@ const HeroSection = () => {
     <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
       <img
         src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
-        alt="L'ARTISANE"
+        alt="LE MÉTÉOR"
         className="absolute inset-0 w-full h-full object-cover"
         loading="eager"
       />
@@ -13,7 +13,7 @@ const HeroSection = () => {
           Cuisine Française
         </p>
         <h1 className="font-heading text-5xl md:text-7xl lg:text-8xl text-primary-foreground font-medium mb-6 leading-tight animate-[fadeSlideUp_1s_0.6s_both]">
-          L'ARTISANE
+          LE MÉTÉOR
         </h1>
         <div className="w-16 h-px bg-accent mx-auto mb-6 animate-[growWidth_0.8s_1s_both]" />
         <a
