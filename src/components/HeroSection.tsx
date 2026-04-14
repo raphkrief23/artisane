@@ -1,10 +1,8 @@
-import heroChef from "@/assets/hero-chef.png";
-
 const HeroSection = () => {
   return (
     <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
       <img
-        src={heroChef}
+        src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
         alt="L'ARTISANE"
         className="absolute inset-0 w-full h-full object-cover"
         loading="eager"
