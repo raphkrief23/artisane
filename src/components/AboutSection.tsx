@@ -20,7 +20,7 @@ const AboutSection = () => {
           </h2>
           <div className="space-y-4 text-muted-foreground font-light leading-relaxed">
             <p>
-              Au 19 Rue du Palais des Guilhem, 34000 Montpellier, se dévoile ARTISANE, un écrin où la passion culinaire prend tout son sens. Dès l'entrée, une ambiance chaleureuse et authentique vous enveloppe, promesse d'un moment hors du temps. Notre cuisine est un hommage aux produits, méticuleusement sélectionnés et sublimés avec respect. Chaque assiette est le fruit d'un savoir-faire artisanal, une symphonie de saveurs franches inspirée par la richesse de notre terroir. Ici, la flamme de la gastronomie anime chaque geste, chaque sourire. ARTISANE est une invitation à une expérience sincère, où le plaisir des sens et la convivialité règnent. Venez découvrir cette adresse unique, où l'amour du bon goût se partage.
+              Au 19 Rue du Palais des Guilhem, 34000 Montpellier, se dévoile L'ARTISANE, un écrin où la passion culinaire prend tout son sens. Dès l'entrée, une ambiance chaleureuse et authentique vous enveloppe, promesse d'un moment hors du temps. Notre cuisine est un hommage aux produits, méticuleusement sélectionnés et sublimés avec respect. Chaque assiette est le fruit d'un savoir-faire artisanal, une symphonie de saveurs franches inspirée par la richesse de notre terroir. Ici, la flamme de la gastronomie anime chaque geste, chaque sourire. L'ARTISANE est une invitation à une expérience sincère, où le plaisir des sens et la convivialité règnent. Venez découvrir cette adresse unique, où l'amour du bon goût se partage.
             </p>
           </div>
         </div>
